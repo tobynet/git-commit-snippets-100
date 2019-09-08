@@ -8,9 +8,11 @@ IN_FILENAME_FOR_SNIPPETS = 'source.txt'
 OUT_FILENAME_FOR_VSCODE = os.path.join('out', 'vscode', 'git-commit.json')
 
 
-def to_vscode_snippet(body: str, prefix: str = None, description: str = ''):
+def to_vscode_snippet(body: str, prefix: str = None, description: str = None):
     if not prefix:
         prefix = body.split(' ')[0].split('/')[0]
+    if not description:
+        description = body
 
     item = {}
     item['prefix'] = prefix.lower()
