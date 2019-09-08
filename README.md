@@ -4,7 +4,7 @@ Snippets for a git commit message.
 
 ## Support
 
-* TODO: VSCode snippet: `out/vscode/git-commit.json`
+* VSCode snippet: `out/vscode/git-commit.json`
 
 ## Install
 
