@@ -4,1203 +4,1203 @@
     "body": [
       "Fix A in B"
     ],
-    "description": ""
+    "description": "Fix A in B"
   },
   "Fix for A": {
     "prefix": "fix",
     "body": [
       "Fix for A"
     ],
-    "description": ""
+    "description": "Fix for A"
   },
   "Fix A to B": {
     "prefix": "fix",
     "body": [
       "Fix A to B"
     ],
-    "description": ""
+    "description": "Fix A to B"
   },
   "Fix A of B": {
     "prefix": "fix",
     "body": [
       "Fix A of B"
     ],
-    "description": ""
+    "description": "Fix A of B"
   },
   "Add A to B": {
     "prefix": "add",
     "body": [
       "Add A to B"
     ],
-    "description": ""
+    "description": "Add A to B"
   },
   "Add A for B": {
     "prefix": "add",
     "body": [
       "Add A for B"
     ],
-    "description": ""
+    "description": "Add A for B"
   },
   "Remove A from B": {
     "prefix": "remove",
     "body": [
       "Remove A from B"
     ],
-    "description": ""
+    "description": "Remove A from B"
   },
   "Remove A in B": {
     "prefix": "remove",
     "body": [
       "Remove A in B"
     ],
-    "description": ""
+    "description": "Remove A in B"
   },
   "Remove unused A": {
     "prefix": "remove",
     "body": [
       "Remove unused A"
     ],
-    "description": ""
+    "description": "Remove unused A"
   },
   "Use A": {
     "prefix": "use",
     "body": [
       "Use A"
     ],
-    "description": ""
+    "description": "Use A"
   },
   "To use A": {
     "prefix": "to",
     "body": [
       "To use A"
     ],
-    "description": ""
+    "description": "To use A"
   },
   "Use A instead of B": {
     "prefix": "use",
     "body": [
       "Use A instead of B"
     ],
-    "description": ""
+    "description": "Use A instead of B"
   },
   "Use A in B": {
     "prefix": "use",
     "body": [
       "Use A in B"
     ],
-    "description": ""
+    "description": "Use A in B"
   },
   "Use A for B": {
     "prefix": "use",
     "body": [
       "Use A for B"
     ],
-    "description": ""
+    "description": "Use A for B"
   },
   "Remove use of B": {
     "prefix": "remove",
     "body": [
       "Remove use of B"
     ],
-    "description": ""
+    "description": "Remove use of B"
   },
   "Update to A": {
     "prefix": "update",
     "body": [
       "Update to A"
     ],
-    "description": ""
+    "description": "Update to A"
   },
   "Update A to B": {
     "prefix": "update",
     "body": [
       "Update A to B"
     ],
-    "description": ""
+    "description": "Update A to B"
   },
   "Update A for B": {
     "prefix": "update",
     "body": [
       "Update A for B"
     ],
-    "description": ""
+    "description": "Update A for B"
   },
   "Add A support": {
     "prefix": "add",
     "body": [
       "Add A support"
     ],
-    "description": ""
+    "description": "Add A support"
   },
   "Add support for A": {
     "prefix": "add",
     "body": [
       "Add support for A"
     ],
-    "description": ""
+    "description": "Add support for A"
   },
   "Make use of A": {
     "prefix": "make",
     "body": [
       "Make use of A"
     ],
-    "description": ""
+    "description": "Make use of A"
   },
   "Make it A": {
     "prefix": "make",
     "body": [
       "Make it A"
     ],
-    "description": ""
+    "description": "Make it A"
   },
   "Make it A possible": {
     "prefix": "make",
     "body": [
       "Make it A possible"
     ],
-    "description": ""
+    "description": "Make it A possible"
   },
   "Make sure to A": {
     "prefix": "make",
     "body": [
       "Make sure to A"
     ],
-    "description": ""
+    "description": "Make sure to A"
   },
   "Make sure that A": {
     "prefix": "make",
     "body": [
       "Make sure that A"
     ],
-    "description": ""
+    "description": "Make sure that A"
   },
   "Make A B": {
     "prefix": "make",
     "body": [
       "Make A B"
     ],
-    "description": ""
+    "description": "Make A B"
   },
   "Move A from B": {
     "prefix": "move",
     "body": [
       "Move A from B"
     ],
-    "description": ""
+    "description": "Move A from B"
   },
   "Move A to B": {
     "prefix": "move",
     "body": [
       "Move A to B"
     ],
-    "description": ""
+    "description": "Move A to B"
   },
   "Move A in B": {
     "prefix": "move",
     "body": [
       "Move A in B"
     ],
-    "description": ""
+    "description": "Move A in B"
   },
   "Don't use A": {
     "prefix": "don't",
     "body": [
       "Don't use A"
     ],
-    "description": ""
+    "description": "Don't use A"
   },
   "Check for A": {
     "prefix": "check",
     "body": [
       "Check for A"
     ],
-    "description": ""
+    "description": "Check for A"
   },
   "Check A in B": {
     "prefix": "check",
     "body": [
       "Check A in B"
     ],
-    "description": ""
+    "description": "Check A in B"
   },
   "Fix A check": {
     "prefix": "fix",
     "body": [
       "Fix A check"
     ],
-    "description": ""
+    "description": "Fix A check"
   },
   "Add A check": {
     "prefix": "add",
     "body": [
       "Add A check"
     ],
-    "description": ""
+    "description": "Add A check"
   },
   "Remove A check": {
     "prefix": "remove",
     "body": [
       "Remove A check"
     ],
-    "description": ""
+    "description": "Remove A check"
   },
   "Replace A with B": {
     "prefix": "replace",
     "body": [
       "Replace A with B"
     ],
-    "description": ""
+    "description": "Replace A with B"
   },
   "Change A to B": {
     "prefix": "change",
     "body": [
       "Change A to B"
     ],
-    "description": ""
+    "description": "Change A to B"
   },
   "Change to B": {
     "prefix": "change",
     "body": [
       "Change to B"
     ],
-    "description": ""
+    "description": "Change to B"
   },
   "Change A for B": {
     "prefix": "change",
     "body": [
       "Change A for B"
     ],
-    "description": ""
+    "description": "Change A for B"
   },
   "Change A in B": {
     "prefix": "change",
     "body": [
       "Change A in B"
     ],
-    "description": ""
+    "description": "Change A in B"
   },
   "Allow A to B": {
     "prefix": "allow",
     "body": [
       "Allow A to B"
     ],
-    "description": ""
+    "description": "Allow A to B"
   },
   "Set A to B": {
     "prefix": "set",
     "body": [
       "Set A to B"
     ],
-    "description": ""
+    "description": "Set A to B"
   },
   "Set A for B": {
     "prefix": "set",
     "body": [
       "Set A for B"
     ],
-    "description": ""
+    "description": "Set A for B"
   },
   "Convert A to B": {
     "prefix": "convert",
     "body": [
       "Convert A to B"
     ],
-    "description": ""
+    "description": "Convert A to B"
   },
   "Convert to B": {
     "prefix": "convert",
     "body": [
       "Convert to B"
     ],
-    "description": ""
+    "description": "Convert to B"
   },
   "Rename A to B": {
     "prefix": "rename",
     "body": [
       "Rename A to B"
     ],
-    "description": ""
+    "description": "Rename A to B"
   },
   "Avoid A to B": {
     "prefix": "avoid",
     "body": [
       "Avoid A to B"
     ],
-    "description": ""
+    "description": "Avoid A to B"
   },
   "Ensure A": {
     "prefix": "ensure",
     "body": [
       "Ensure A"
     ],
-    "description": ""
+    "description": "Ensure A"
   },
   "Switch from A to B": {
     "prefix": "switch",
     "body": [
       "Switch from A to B"
     ],
-    "description": ""
+    "description": "Switch from A to B"
   },
   "Sorting A by B": {
     "prefix": "sorting",
     "body": [
       "Sorting A by B"
     ],
-    "description": ""
+    "description": "Sorting A by B"
   },
   "Add -enable-experimental-nested-generic-types frontend flag": {
     "prefix": "add",
     "body": [
       "Add -enable-experimental-nested-generic-types frontend flag"
     ],
-    "description": ""
+    "description": "Add -enable-experimental-nested-generic-types frontend flag"
   },
   "Add --main-process flag to run specs in the main process": {
     "prefix": "add",
     "body": [
       "Add --main-process flag to run specs in the main process"
     ],
-    "description": ""
+    "description": "Add --main-process flag to run specs in the main process"
   },
   "Add Throws flag and ThrowsLoc to AbstractFunctionDecl": {
     "prefix": "add",
     "body": [
       "Add Throws flag and ThrowsLoc to AbstractFunctionDecl"
     ],
-    "description": ""
+    "description": "Add Throws flag and ThrowsLoc to AbstractFunctionDecl"
   },
   "Add \"event\" parameter for \"click\" handler of MenuItem": {
     "prefix": "add",
     "body": [
       "Add \"event\" parameter for \"click\" handler of MenuItem"
     ],
-    "description": ""
+    "description": "Add \"event\" parameter for \"click\" handler of MenuItem"
   },
   "Add File &gt; Exit menu on Windows": {
     "prefix": "add",
     "body": [
       "Add File &gt; Exit menu on Windows"
     ],
-    "description": ""
+    "description": "Add File &gt; Exit menu on Windows"
   },
   "Add npm start script": {
     "prefix": "add",
     "body": [
       "Add npm start script"
     ],
-    "description": ""
+    "description": "Add npm start script"
   },
   "Add build script": {
     "prefix": "add",
     "body": [
       "Add build script"
     ],
-    "description": ""
+    "description": "Add build script"
   },
   "Add SkUserConfig.h with blank SkDebugf macro": {
     "prefix": "add",
     "body": [
       "Add SkUserConfig.h with blank SkDebugf macro"
     ],
-    "description": ""
+    "description": "Add SkUserConfig.h with blank SkDebugf macro"
   },
   "Add TypeLowering::hasFixedSize()": {
     "prefix": "add",
     "body": [
       "Add TypeLowering::hasFixedSize()"
     ],
-    "description": ""
+    "description": "Add TypeLowering::hasFixedSize()"
   },
   "Add overflow scrolling": {
     "prefix": "add",
     "body": [
       "Add overflow scrolling"
     ],
-    "description": ""
+    "description": "Add overflow scrolling"
   },
   "Add convenience API for demangling": {
     "prefix": "add",
     "body": [
       "Add convenience API for demangling"
     ],
-    "description": ""
+    "description": "Add convenience API for demangling"
   },
   "Add a typealias to avoid a build ordering dependency between projects": {
     "prefix": "add",
     "body": [
       "Add a typealias to avoid a build ordering dependency between projects"
     ],
-    "description": ""
+    "description": "Add a typealias to avoid a build ordering dependency between projects"
   },
   "Add a helper method mayHaveOpenedArchetypeOperands to SILInstruction": {
     "prefix": "add",
     "body": [
       "Add a helper method mayHaveOpenedArchetypeOperands to SILInstruction"
     ],
-    "description": ""
+    "description": "Add a helper method mayHaveOpenedArchetypeOperands to SILInstruction"
   },
   "Use args.resourcePath instead of args.devResourcePath": {
     "prefix": "use",
     "body": [
       "Use args.resourcePath instead of args.devResourcePath"
     ],
-    "description": ""
+    "description": "Use args.resourcePath instead of args.devResourcePath"
   },
   "Use arrays instead of while loops": {
     "prefix": "use",
     "body": [
       "Use arrays instead of while loops"
     ],
-    "description": ""
+    "description": "Use arrays instead of while loops"
   },
   "Use auto instead of repeating explicit class names": {
     "prefix": "use",
     "body": [
       "Use auto instead of repeating explicit class names"
     ],
-    "description": ""
+    "description": "Use auto instead of repeating explicit class names"
   },
   "Use weak pointer instead of manual bookkeeping": {
     "prefix": "use",
     "body": [
       "Use weak pointer instead of manual bookkeeping"
     ],
-    "description": ""
+    "description": "Use weak pointer instead of manual bookkeeping"
   },
   "Change all uses of 'CInt' to 'Int32' in the SDK overlay": {
     "prefix": "change",
     "body": [
       "Change all uses of 'CInt' to 'Int32' in the SDK overlay"
     ],
-    "description": ""
+    "description": "Change all uses of 'CInt' to 'Int32' in the SDK overlay"
   },
   "Change Integer#year to return a Fixnum instead of a Float to improve consistency": {
     "prefix": "change",
     "body": [
       "Change Integer#year to return a Fixnum instead of a Float to improve consistency"
     ],
-    "description": ""
+    "description": "Change Integer#year to return a Fixnum instead of a Float to improve consistency"
   },
   "Add support for closure contexts to readMetadataFromInstance()": {
     "prefix": "add",
     "body": [
       "Add support for closure contexts to readMetadataFromInstance()"
     ],
-    "description": ""
+    "description": "Add support for closure contexts to readMetadataFromInstance()"
   },
   "Add support for activating and deactivating package-specific keymaps": {
     "prefix": "add",
     "body": [
       "Add support for activating and deactivating package-specific keymaps"
     ],
-    "description": ""
+    "description": "Add support for activating and deactivating package-specific keymaps"
   },
   "Add support for launching HTML files directly": {
     "prefix": "add",
     "body": [
       "Add support for launching HTML files directly"
     ],
-    "description": ""
+    "description": "Add support for launching HTML files directly"
   },
   "Add support for allocators that require tensors with zero": {
     "prefix": "add",
     "body": [
       "Add support for allocators that require tensors with zero"
     ],
-    "description": ""
+    "description": "Add support for allocators that require tensors with zero"
   },
   "Make it possible to call `reflect` multiple times": {
     "prefix": "make",
     "body": [
       "Make it possible to call `reflect` multiple times"
     ],
-    "description": ""
+    "description": "Make it possible to call `reflect` multiple times"
   },
   "Make it possible to set a data type for variables that come out of constants": {
     "prefix": "make",
     "body": [
       "Make it possible to set a data type for variables that come out of constants"
     ],
-    "description": ""
+    "description": "Make it possible to set a data type for variables that come out of constants"
   },
   "Allow atom-pane to be shrunk independently of its contents' width": {
     "prefix": "allow",
     "body": [
       "Allow atom-pane to be shrunk independently of its contents' width"
     ],
-    "description": ""
+    "description": "Allow atom-pane to be shrunk independently of its contents' width"
   },
   "Allow null TextEditorComponent::domNode during visibility check": {
     "prefix": "allow",
     "body": [
       "Allow null TextEditorComponent::domNode during visibility check"
     ],
-    "description": ""
+    "description": "Allow null TextEditorComponent::domNode during visibility check"
   },
   "Use const for util require": {
     "prefix": "use",
     "body": [
       "Use const for util require"
     ],
-    "description": ""
+    "description": "Use const for util require"
   },
   "Use FoldingSetNode for ProtocolType": {
     "prefix": "use",
     "body": [
       "Use FoldingSetNode for ProtocolType"
     ],
-    "description": ""
+    "description": "Use FoldingSetNode for ProtocolType"
   },
   "Use unique text editor title in window and tab titles": {
     "prefix": "use",
     "body": [
       "Use unique text editor title in window and tab titles"
     ],
-    "description": ""
+    "description": "Use unique text editor title in window and tab titles"
   },
   "Use an empty object if metadata is ~null": {
     "prefix": "use",
     "body": [
       "Use an empty object if metadata is ~null"
     ],
-    "description": ""
+    "description": "Use an empty object if metadata is ~null"
   },
   "Use target_link_libraries for fat executable dependencies": {
     "prefix": "use",
     "body": [
       "Use target_link_libraries for fat executable dependencies"
     ],
-    "description": ""
+    "description": "Use target_link_libraries for fat executable dependencies"
   },
   "Use existing flatMapToOptionalTests dataset": {
     "prefix": "use",
     "body": [
       "Use existing flatMapToOptionalTests dataset"
     ],
-    "description": ""
+    "description": "Use existing flatMapToOptionalTests dataset"
   },
   "Make the clone function more generic": {
     "prefix": "make",
     "body": [
       "Make the clone function more generic"
     ],
-    "description": ""
+    "description": "Make the clone function more generic"
   },
   "Make IO faster for v8 compile cache": {
     "prefix": "make",
     "body": [
       "Make IO faster for v8 compile cache"
     ],
-    "description": ""
+    "description": "Make IO faster for v8 compile cache"
   },
   "Make model constructor argument to addViewProvider optional": {
     "prefix": "make",
     "body": [
       "Make model constructor argument to addViewProvider optional"
     ],
-    "description": ""
+    "description": "Make model constructor argument to addViewProvider optional"
   },
   "Make Browser::Quit more robust": {
     "prefix": "make",
     "body": [
       "Make Browser::Quit more robust"
     ],
-    "description": ""
+    "description": "Make Browser::Quit more robust"
   },
   "Make Menu.getApplicationMenu() public": {
     "prefix": "make",
     "body": [
       "Make Menu.getApplicationMenu() public"
     ],
-    "description": ""
+    "description": "Make Menu.getApplicationMenu() public"
   },
   "Improve incompatible native module error message": {
     "prefix": "improve",
     "body": [
       "Improve incompatible native module error message"
     ],
-    "description": ""
+    "description": "Improve incompatible native module error message"
   },
   "Improve readability of multi-line command": {
     "prefix": "improve",
     "body": [
       "Improve readability of multi-line command"
     ],
-    "description": ""
+    "description": "Improve readability of multi-line command"
   },
   "Improve folds behavior when duplicating lines": {
     "prefix": "improve",
     "body": [
       "Improve folds behavior when duplicating lines"
     ],
-    "description": ""
+    "description": "Improve folds behavior when duplicating lines"
   },
   "Improve deprecated message on webPreferences options": {
     "prefix": "improve",
     "body": [
       "Improve deprecated message on webPreferences options"
     ],
-    "description": ""
+    "description": "Improve deprecated message on webPreferences options"
   },
   "Don't bail reading a metadata instance if swift_isaMask isn't available": {
     "prefix": "don't",
     "body": [
       "Don't bail reading a metadata instance if swift_isaMask isn't available"
     ],
-    "description": ""
+    "description": "Don't bail reading a metadata instance if swift_isaMask isn't available"
   },
   "Don't exit until the parent asks for an instance": {
     "prefix": "don't",
     "body": [
       "Don't exit until the parent asks for an instance"
     ],
-    "description": ""
+    "description": "Don't exit until the parent asks for an instance"
   },
   "Don't include Parent pointer in Nominal/BoundGeneric TypeRef uniquing": {
     "prefix": "don't",
     "body": [
       "Don't include Parent pointer in Nominal/BoundGeneric TypeRef uniquing"
     ],
-    "description": ""
+    "description": "Don't include Parent pointer in Nominal/BoundGeneric TypeRef uniquing"
   },
   "Don't use MatchesExtension for matching filters": {
     "prefix": "don't",
     "body": [
       "Don't use MatchesExtension for matching filters"
     ],
-    "description": ""
+    "description": "Don't use MatchesExtension for matching filters"
   },
   "Don't use ES6 class for AutoUpdater windows class": {
     "prefix": "don't",
     "body": [
       "Don't use ES6 class for AutoUpdater windows class"
     ],
-    "description": ""
+    "description": "Don't use ES6 class for AutoUpdater windows class"
   },
   "Avoid `distinct` if a subquery has already materialized": {
     "prefix": "avoid",
     "body": [
       "Avoid `distinct` if a subquery has already materialized"
     ],
-    "description": ""
+    "description": "Avoid `distinct` if a subquery has already materialized"
   },
   "Avoid infinite recursion when bad values are passed to tz aware fields": {
     "prefix": "avoid",
     "body": [
       "Avoid infinite recursion when bad values are passed to tz aware fields"
     ],
-    "description": ""
+    "description": "Avoid infinite recursion when bad values are passed to tz aware fields"
   },
   "Emit capture descriptors in their own section": {
     "prefix": "emit",
     "body": [
       "Emit capture descriptors in their own section"
     ],
-    "description": ""
+    "description": "Emit capture descriptors in their own section"
   },
   "Emit field metadata for @objc classes": {
     "prefix": "emit",
     "body": [
       "Emit field metadata for @objc classes"
     ],
-    "description": ""
+    "description": "Emit field metadata for @objc classes"
   },
   "Emit reflection info for protocols": {
     "prefix": "emit",
     "body": [
       "Emit reflection info for protocols"
     ],
-    "description": ""
+    "description": "Emit reflection info for protocols"
   },
   "Add assert for role with app name in label": {
     "prefix": "add",
     "body": [
       "Add assert for role with app name in label"
     ],
-    "description": ""
+    "description": "Add assert for role with app name in label"
   },
   "Add assertions for no available bookmark": {
     "prefix": "add",
     "body": [
       "Add assertions for no available bookmark"
     ],
-    "description": ""
+    "description": "Add assertions for no available bookmark"
   },
   "Add asserts for properties": {
     "prefix": "add",
     "body": [
       "Add asserts for properties"
     ],
-    "description": ""
+    "description": "Add asserts for properties"
   },
   "Remove some dead code": {
     "prefix": "remove",
     "body": [
       "Remove some dead code"
     ],
-    "description": ""
+    "description": "Remove some dead code"
   },
   "Remove some unused enum declaration": {
     "prefix": "remove",
     "body": [
       "Remove some unused enum declaration"
     ],
-    "description": ""
+    "description": "Remove some unused enum declaration"
   },
   "Remove unused variable": {
     "prefix": "remove",
     "body": [
       "Remove unused variable"
     ],
-    "description": ""
+    "description": "Remove unused variable"
   },
   "Remove unnecessary line feeds": {
     "prefix": "remove",
     "body": [
       "Remove unnecessary line feeds"
     ],
-    "description": ""
+    "description": "Remove unnecessary line feeds"
   },
   "Remove trailing whitespace": {
     "prefix": "remove",
     "body": [
       "Remove trailing whitespace"
     ],
-    "description": ""
+    "description": "Remove trailing whitespace"
   },
   "Remove debug statement": {
     "prefix": "remove",
     "body": [
       "Remove debug statement"
     ],
-    "description": ""
+    "description": "Remove debug statement"
   },
   "Remove redundant mapType{Into": {
     "prefix": "remove",
     "body": [
       "Remove redundant mapType{Into"
     ],
-    "description": ""
+    "description": "Remove redundant mapType{Into"
   },
   "Move function signature analysis to a Util": {
     "prefix": "move",
     "body": [
       "Move function signature analysis to a Util"
     ],
-    "description": ""
+    "description": "Move function signature analysis to a Util"
   },
   "Move markInvalidGenericSignature() to a method on TypeChecker": {
     "prefix": "move",
     "body": [
       "Move markInvalidGenericSignature() to a method on TypeChecker"
     ],
-    "description": ""
+    "description": "Move markInvalidGenericSignature() to a method on TypeChecker"
   },
   "Move diagnostic for stored properties in protocols from type checking to validation": {
     "prefix": "move",
     "body": [
       "Move diagnostic for stored properties in protocols from type checking to validation"
     ],
-    "description": ""
+    "description": "Move diagnostic for stored properties in protocols from type checking to validation"
   },
   "Move Doxygen converter into a proper MarkupASTNode visitor": {
     "prefix": "move",
     "body": [
       "Move Doxygen converter into a proper MarkupASTNode visitor"
     ],
-    "description": ""
+    "description": "Move Doxygen converter into a proper MarkupASTNode visitor"
   },
   "Move Module require to top": {
     "prefix": "move",
     "body": [
       "Move Module require to top"
     ],
-    "description": ""
+    "description": "Move Module require to top"
   },
   "Rename environment -&gt; environmentHelpers": {
     "prefix": "rename",
     "body": [
       "Rename environment -&gt; environmentHelpers"
     ],
-    "description": ""
+    "description": "Rename environment -&gt; environmentHelpers"
   },
   "Rename watchProjectPath to watchProjectPaths": {
     "prefix": "rename",
     "body": [
       "Rename watchProjectPath to watchProjectPaths"
     ],
-    "description": ""
+    "description": "Rename watchProjectPath to watchProjectPaths"
   },
   "Rename generic arguments": {
     "prefix": "rename",
     "body": [
       "Rename generic arguments"
     ],
-    "description": ""
+    "description": "Rename generic arguments"
   },
   "s/grammarName/grammar": {
     "prefix": "s",
     "body": [
       "s/grammarName/grammar"
     ],
-    "description": ""
+    "description": "s/grammarName/grammar"
   },
   "fullVersion -&gt; writeFullVersion": {
     "prefix": "fullversion",
     "body": [
       "fullVersion -&gt; writeFullVersion"
     ],
-    "description": ""
+    "description": "fullVersion -&gt; writeFullVersion"
   },
   "Fix typos": {
     "prefix": "fix",
     "body": [
       "Fix typos"
     ],
-    "description": ""
+    "description": "Fix typos"
   },
   "Fix a typo": {
     "prefix": "fix",
     "body": [
       "Fix a typo"
     ],
-    "description": ""
+    "description": "Fix a typo"
   },
   "Fix a test": {
     "prefix": "fix",
     "body": [
       "Fix a test"
     ],
-    "description": ""
+    "description": "Fix a test"
   },
   "Fix typo in DevTools Extensions tutorial": {
     "prefix": "fix",
     "body": [
       "Fix typo in DevTools Extensions tutorial"
     ],
-    "description": ""
+    "description": "Fix typo in DevTools Extensions tutorial"
   },
   "Fix DownloadingState typo": {
     "prefix": "fix",
     "body": [
       "Fix DownloadingState typo"
     ],
-    "description": ""
+    "description": "Fix DownloadingState typo"
   },
   "Fix includes order": {
     "prefix": "fix",
     "body": [
       "Fix includes order"
     ],
-    "description": ""
+    "description": "Fix includes order"
   },
   "Fix mistake in tvOS availability": {
     "prefix": "fix",
     "body": [
       "Fix mistake in tvOS availability"
     ],
-    "description": ""
+    "description": "Fix mistake in tvOS availability"
   },
   "Fix cpplint warnings": {
     "prefix": "fix",
     "body": [
       "Fix cpplint warnings"
     ],
-    "description": ""
+    "description": "Fix cpplint warnings"
   },
   "Fix wrong markdown": {
     "prefix": "fix",
     "body": [
       "Fix wrong markdown"
     ],
-    "description": ""
+    "description": "Fix wrong markdown"
   },
   "Add missing return": {
     "prefix": "add",
     "body": [
       "Add missing return"
     ],
-    "description": ""
+    "description": "Add missing return"
   },
   "Add missing period in comment": {
     "prefix": "add",
     "body": [
       "Add missing period in comment"
     ],
-    "description": ""
+    "description": "Add missing period in comment"
   },
   "Fix a memory leak in FSO": {
     "prefix": "fix",
     "body": [
       "Fix a memory leak in FSO"
     ],
-    "description": ""
+    "description": "Fix a memory leak in FSO"
   },
   "Fix lifetime issues in ManagedBuffer.value": {
     "prefix": "fix",
     "body": [
       "Fix lifetime issues in ManagedBuffer.value"
     ],
-    "description": ""
+    "description": "Fix lifetime issues in ManagedBuffer.value"
   },
   "Fix mangling for nested generic types": {
     "prefix": "fix",
     "body": [
       "Fix mangling for nested generic types"
     ],
-    "description": ""
+    "description": "Fix mangling for nested generic types"
   },
   "Fix memory corruption in another circularity check": {
     "prefix": "fix",
     "body": [
       "Fix memory corruption in another circularity check"
     ],
-    "description": ""
+    "description": "Fix memory corruption in another circularity check"
   },
   "Fix thread-unsafety in Process.Argument initialization": {
     "prefix": "fix",
     "body": [
       "Fix thread-unsafety in Process.Argument initialization"
     ],
-    "description": ""
+    "description": "Fix thread-unsafety in Process.Argument initialization"
   },
   "Fix \"Object has been destroyed\" error in \"page-title-updated\" event": {
     "prefix": "fix",
     "body": [
       "Fix \"Object has been destroyed\" error in \"page-title-updated\" event"
     ],
-    "description": ""
+    "description": "Fix \"Object has been destroyed\" error in \"page-title-updated\" event"
   },
   "Make Error.prepareStackTrace read-only (again)": {
     "prefix": "make",
     "body": [
       "Make Error.prepareStackTrace read-only (again)"
     ],
-    "description": ""
+    "description": "Make Error.prepareStackTrace read-only (again)"
   },
   "Make string slicing tests standalone": {
     "prefix": "make",
     "body": [
       "Make string slicing tests standalone"
     ],
-    "description": ""
+    "description": "Make string slicing tests standalone"
   },
   "Make sure showing success dialogs works correctly": {
     "prefix": "make",
     "body": [
       "Make sure showing success dialogs works correctly"
     ],
-    "description": ""
+    "description": "Make sure showing success dialogs works correctly"
   },
   "Make sure to emit closure bodies only once": {
     "prefix": "make",
     "body": [
       "Make sure to emit closure bodies only once"
     ],
-    "description": ""
+    "description": "Make sure to emit closure bodies only once"
   },
   "Make sure all native resources get freed on exit": {
     "prefix": "make",
     "body": [
       "Make sure all native resources get freed on exit"
     ],
-    "description": ""
+    "description": "Make sure all native resources get freed on exit"
   },
   "Make sure temp file will be cleaned up when base::Move fails": {
     "prefix": "make",
     "body": [
       "Make sure temp file will be cleaned up when base::Move fails"
     ],
-    "description": ""
+    "description": "Make sure temp file will be cleaned up when base::Move fails"
   },
   "Add tests for pending pane items": {
     "prefix": "add",
     "body": [
       "Add tests for pending pane items"
     ],
-    "description": ""
+    "description": "Add tests for pending pane items"
   },
   "Add validation test for projecting existentials": {
     "prefix": "add",
     "body": [
       "Add validation test for projecting existentials"
     ],
-    "description": ""
+    "description": "Add validation test for projecting existentials"
   },
   "Add a basic test for opening an editor in largeFileMode if &gt;= 2MB": {
     "prefix": "add",
     "body": [
       "Add a basic test for opening an editor in largeFileMode if &gt;= 2MB"
     ],
-    "description": ""
+    "description": "Add a basic test for opening an editor in largeFileMode if &gt;= 2MB"
   },
   "Add specs for moveSelectionLeft()": {
     "prefix": "add",
     "body": [
       "Add specs for moveSelectionLeft()"
     ],
-    "description": ""
+    "description": "Add specs for moveSelectionLeft()"
   },
   "Add failing spec for Menu.buildFromTemplate": {
     "prefix": "add",
     "body": [
       "Add failing spec for Menu.buildFromTemplate"
     ],
-    "description": ""
+    "description": "Add failing spec for Menu.buildFromTemplate"
   },
   "Add comment about map key/values": {
     "prefix": "add",
     "body": [
       "Add comment about map key/values"
     ],
-    "description": ""
+    "description": "Add comment about map key/values"
   },
   "Add TODO about blinkFeatures -&gt; enableBlinkFeatures": {
     "prefix": "add",
     "body": [
       "Add TODO about blinkFeatures -&gt; enableBlinkFeatures"
     ],
-    "description": ""
+    "description": "Add TODO about blinkFeatures -&gt; enableBlinkFeatures"
   },
   "Add a design-decisions section to the CONTRIBUTING guide": {
     "prefix": "add",
     "body": [
       "Add a design-decisions section to the CONTRIBUTING guide"
     ],
-    "description": ""
+    "description": "Add a design-decisions section to the CONTRIBUTING guide"
   },
   "Add style.less examples": {
     "prefix": "add",
     "body": [
       "Add style.less examples"
     ],
-    "description": ""
+    "description": "Add style.less examples"
   },
   "Add docs for app.getLocale()": {
     "prefix": "add",
     "body": [
       "Add docs for app.getLocale()"
     ],
-    "description": ""
+    "description": "Add docs for app.getLocale()"
   },
   "Add documentation for --proxy-bypass-list": {
     "prefix": "add",
     "body": [
       "Add documentation for --proxy-bypass-list"
     ],
-    "description": ""
+    "description": "Add documentation for --proxy-bypass-list"
   },
   "Remove a redundant test": {
     "prefix": "remove",
     "body": [
       "Remove a redundant test"
     ],
-    "description": ""
+    "description": "Remove a redundant test"
   },
   "Remove an empty test": {
     "prefix": "remove",
     "body": [
       "Remove an empty test"
     ],
-    "description": ""
+    "description": "Remove an empty test"
   },
   "Fix comment": {
     "prefix": "fix",
     "body": [
       "Fix comment"
     ],
-    "description": ""
+    "description": "Fix comment"
   },
   "Fix outdated comment": {
     "prefix": "fix",
     "body": [
       "Fix outdated comment"
     ],
-    "description": ""
+    "description": "Fix outdated comment"
   },
   "Fix failing specs on Windows": {
     "prefix": "fix",
     "body": [
       "Fix failing specs on Windows"
     ],
-    "description": ""
+    "description": "Fix failing specs on Windows"
   },
   "Fix PersistentVector test for powerpc64{le}": {
     "prefix": "fix",
     "body": [
       "Fix PersistentVector test for powerpc64{le}"
     ],
-    "description": ""
+    "description": "Fix PersistentVector test for powerpc64{le}"
   },
   "Update specs for deferred activation hooks": {
     "prefix": "update",
     "body": [
       "Update specs for deferred activation hooks"
     ],
-    "description": ""
+    "description": "Update specs for deferred activation hooks"
   },
   "Update successor/predecessor in validation tests": {
     "prefix": "update",
     "body": [
       "Update successor/predecessor in validation tests"
     ],
-    "description": ""
+    "description": "Update successor/predecessor in validation tests"
   },
   "Update some tests to use LifetimeTracked instead of hand-rolled canaries": {
     "prefix": "update",
     "body": [
       "Update some tests to use LifetimeTracked instead of hand-rolled canaries"
     ],
-    "description": ""
+    "description": "Update some tests to use LifetimeTracked instead of hand-rolled canaries"
   },
   "Update README.md": {
     "prefix": "update",
     "body": [
       "Update README.md"
     ],
-    "description": ""
+    "description": "Update README.md"
   },
   "Update docs for marker callback": {
     "prefix": "update",
     "body": [
       "Update docs for marker callback"
     ],
-    "description": ""
+    "description": "Update docs for marker callback"
   },
   "Update documentation for mark*Position": {
     "prefix": "update",
     "body": [
       "Update documentation for mark*Position"
     ],
-    "description": ""
+    "description": "Update documentation for mark*Position"
   },
   "Update link to solarized-dark-syntax": {
     "prefix": "update",
     "body": [
       "Update link to solarized-dark-syntax"
     ],
-    "description": ""
+    "description": "Update link to solarized-dark-syntax"
   },
   "Improve documentation of `ses.cookies.set()`": {
     "prefix": "improve",
     "body": [
       "Improve documentation of `ses.cookies.set()`"
     ],
-    "description": ""
+    "description": "Improve documentation of `ses.cookies.set()`"
   },
   "Improve readability in CSRF section of guide": {
     "prefix": "improve",
     "body": [
       "Improve readability in CSRF section of guide"
     ],
-    "description": ""
+    "description": "Improve readability in CSRF section of guide"
   },
   "Improve spec description": {
     "prefix": "improve",
     "body": [
       "Improve spec description"
     ],
-    "description": ""
+    "description": "Improve spec description"
   }
 }
